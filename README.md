@@ -1,0 +1,1 @@
+MILP optimization model for district heating supply under Positive Energy District (PED) targets. Features dynamic primary energy factors, multi-technology dispatch (heat pumps, CHP, storage), and building refurbishment. Case studies: Kranj (Slovenia)
